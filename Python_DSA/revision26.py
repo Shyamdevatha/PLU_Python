@@ -61,3 +61,5 @@ class bottle:
 '''
 
 '''
+
+var = int(input("Enter a number : "))
